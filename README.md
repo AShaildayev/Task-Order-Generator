@@ -1,6 +1,4 @@
-%Task Order Generator
-
-#Order Generator
+#Task Order Generator
 #Aydar Shaildayev 2013
 #Shuffles lists to create task order 
 import random #import "random" module
